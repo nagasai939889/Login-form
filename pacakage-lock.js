@@ -1,5 +1,5 @@
 {
-  "name": "registration-form",
+  "name": "Login-form",
   "version": "0.1.0",
   "lockfileVersion": 3,
   "requires": true,
